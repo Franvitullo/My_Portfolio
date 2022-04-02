@@ -1,9 +1,9 @@
 ## FranVitullo_DataVisualiser
 
 ### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
-You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing)
 
-To finish my engineering degree, I did my thesis on crop improvement through biofertilizers.
+To complete my engineering degree, I did my thesis on crop improvement through biofertilizers. You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
+
 
 ```
 Abstract
@@ -27,7 +27,11 @@ Improving germination, root architecture and number of leaves.
 
 ```
 
-![](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
+### some examples of graphics used
+
+(Translations as alternative text)
+
+![Figure 5. ​Indole production over time. Shown are the means ± SE of the levels of indoles produced by 21 fescue rhizosphere strains and two reference strains (Azospirillum brasilense Cd and Pantoea eucalypti M91), grown without tryptophan supplementation (panel a) and with tryptophan supplementation (10 μM, panel b). Within each strain, the bars corresponding to 24 h (dots), 48 h (lines) and 72 h (solid color) are shown. n=3](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
 ![](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
 
 ### Project_2: Use of screens in people with children and its impact with the pandemic
