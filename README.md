@@ -31,11 +31,11 @@ By co-inoculating with both bacterial strains an additive effect is achieved.
 Improving germination, root architecture and number of leaves.
 
 ```
+<br />
 
 ### Analyzes performed
+<br />
 
-<br />
-<br />
 #### Bar chart wit ANOVA
 ### **Proteic specific activity of different plants inoculated with specifics microorganisms.**
 <br />
@@ -46,7 +46,7 @@ Improving germination, root architecture and number of leaves.
 
 <br />
 <br />
-#### ANOVA BOXPLOT
+#### ANOVA BOXPLOT (* shows significant difference)
 ### **Biomass production.**
 <br />
 <p align="center">
@@ -57,7 +57,7 @@ Improving germination, root architecture and number of leaves.
 
 <br />
 <br />
-#### stacked bar chart
+#### STACKED BAR CHART
 ### **Germination ratio in seeds inoculated with biofertilizers.**
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
@@ -67,7 +67,7 @@ Improving germination, root architecture and number of leaves.
 
 <br />
 <br />
-#### bar chart with timestamps
+#### TIMESTAMPS BAR CHART
 ### **Percentage in time**
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
@@ -81,5 +81,8 @@ Improving germination, root architecture and number of leaves.
 
 As part of my path to becoming a data scientist 
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
+<p align="center">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
+</p>
+
 
