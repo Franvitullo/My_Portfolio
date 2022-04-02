@@ -1,7 +1,7 @@
 <br />
 
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="100">
+<p align="Left">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="300">
 </p>
 <br />
 
