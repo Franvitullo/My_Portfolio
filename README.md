@@ -1,10 +1,15 @@
 <br />
+
+<p align="center">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="100">
+</p>
+<br />
+
 # FranVitullo_DataVisualiser
 <br />
 <br />
+
 ## I_ Bacteria from the rhizosphere of fescue (*Lolium arundinaceum*) as plant growth enhancers.
-
-
 
 As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers.<br />
 You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
