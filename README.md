@@ -1,15 +1,14 @@
 <br />
-## FranVitullo_DataVisualiser
+# FranVitullo_DataVisualiser
 <br />
 <br />
-<br />
-### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
+## Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
 
 
 
-As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers. 
+As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers.<br />
 You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
-
+<br />
 
 ```
 Abstract
@@ -33,17 +32,20 @@ Improving germination, root architecture and number of leaves.
 
 ```
 
-### some examples of graphics used
+### Plots used
 
-(Translations as alternative text)
-
+#### bar chart with timestamps
+#### 
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550">
 </p>
 
+### stacked bar chart
+#### 
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
 </p>
+  
   
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/5.PNG?raw=true" width="550">
