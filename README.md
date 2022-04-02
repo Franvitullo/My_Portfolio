@@ -9,7 +9,7 @@
 As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers.<br />
 You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
 <br />
-
+<br />
 ```
 Abstract
 
@@ -32,10 +32,27 @@ Improving germination, root architecture and number of leaves.
 
 ```
 
-### Plots used
+### Analyzes performed
+
+### Proteic specific activity of different plants inoculated with specifics microorganisms.
+#### Bar chart wit ANOVA
+<p align="center">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
+</p>
+
+
+
+### Biomass production.
+#### ANOVA BOXPLOT
+<p align="center">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
+</p>
+
 
 #### bar chart with timestamps
-#### 
+#### To show
+<br />
+<br />
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550">
 </p>
@@ -55,14 +72,12 @@ Improving germination, root architecture and number of leaves.
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
-</p>
-
+### Percentage in time
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
 </p>
 
+### Bar chart
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/9.PNG?raw=true" width="550">
 </p>
