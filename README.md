@@ -33,9 +33,10 @@ Improving germination, root architecture and number of leaves.
 
 ![alt text](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=tue)
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="400" height="400">
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550" height="550">
 
-![alt text 2](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550" height="550">
+
 
 ### Project_2: Use of screens in people with children and its impact with the pandemic
 
