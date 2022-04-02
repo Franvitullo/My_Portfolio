@@ -34,53 +34,47 @@ Improving germination, root architecture and number of leaves.
 
 ### Analyzes performed
 
-### Proteic specific activity of different plants inoculated with specifics microorganisms.
+<br />
+<br />
 #### Bar chart wit ANOVA
+### Proteic specific activity of different plants inoculated with specifics microorganisms.
+<br />
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
 </p>
+<br />
 
-
-
-### Biomass production.
+<br />
+<br />
 #### ANOVA BOXPLOT
+### Biomass production.
+<br />
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
 </p>
-
-
-#### bar chart with timestamps
-#### To show
 <br />
 <br />
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550">
-</p>
 
-### stacked bar chart
-#### 
+<br />
+<br />
+#### stacked bar chart
+### Germination ratio in seeds inoculated with biofertilizers.
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
 </p>
-  
-  
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/5.PNG?raw=true" width="550">
-</p>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
-</p>
-
+<br />
+<br />
+#### bar chart with timestamps
 ### Percentage in time
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
 </p>
+<br />
+<br />
 
-### Bar chart
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/9.PNG?raw=true" width="550">
-</p>
 
 
 ### Project_2: Use of screens in people with children and its impact with the pandemic
