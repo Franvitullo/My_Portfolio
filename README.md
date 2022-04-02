@@ -39,7 +39,7 @@ Improving germination, root architecture and number of leaves.
 ```
 <br />
 
-### Analyzes performed
+## Analyzes performed
 <br />
 
 #### BAR CHART with ANOVA
@@ -48,6 +48,7 @@ Improving germination, root architecture and number of leaves.
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
 </p>
+<br />
 <br />
 
 <br />
@@ -80,7 +81,8 @@ Improving germination, root architecture and number of leaves.
 </p>
 <br />
 <br />
-
+<br />
+<br />
 
 
 ## II_Use of screens in people with children and its impact with the pandemic
