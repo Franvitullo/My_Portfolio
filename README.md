@@ -1,7 +1,7 @@
 ## FranVitullo_DataVisualiser
 
 ### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
-https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing
+You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing)
 
 To finish my engineering degree, I did my thesis on crop improvement through biofertilizers.
 
@@ -27,12 +27,12 @@ Improving germination, root architecture and number of leaves.
 
 ```
 
-[](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
-[](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
+![](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
+![](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
 
 ### Project_2: Use of screens in people with children and its impact with the pandemic
 
 As part of my path to becoming a data scientist 
 
-[](![image](https://user-images.githubusercontent.com/92457685/161389551-da909365-566c-4dc5-8a3a-bb01ce1dd7b1.png)
+![image](https://user-images.githubusercontent.com/92457685/161389551-da909365-566c-4dc5-8a3a-bb01ce1dd7b1.png)
 
