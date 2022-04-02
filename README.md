@@ -1,6 +1,6 @@
-# FranVitullo_DataVisualiser
+## FranVitullo_DataVisualiser
 
-## Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
+### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
 
 To finish my engineering degree, I did my thesis on crop improvement through biofertilizers.
 
@@ -16,5 +16,9 @@ strains of greatest interest to identify them taxonomically
 and characterize their PGPR capacity.
 
 ```
+
+### Project_2: Use of screens in people with children and its impact with the pandemic
+
+As part of my path to becoming a data scientist 
 
 
