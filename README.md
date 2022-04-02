@@ -2,7 +2,8 @@
 
 ### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
 
-To complete my engineering degree, I did my thesis on crop improvement through biofertilizers. You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
+As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers. 
+You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
 
 
 ```
@@ -31,9 +32,8 @@ Improving germination, root architecture and number of leaves.
 
 (Translations as alternative text)
 
-![alt text](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=tue)
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550" height=>
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="550">
 
 <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
 
