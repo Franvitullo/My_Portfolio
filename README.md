@@ -31,7 +31,7 @@ Improving germination, root architecture and number of leaves.
 
 (Translations as alternative text)
 
-![Figure 5. ​Indole production over time. Shown are the means ± SE of the levels of indoles produced by 21 fescue rhizosphere strains and two reference strains (Azospirillum brasilense Cd and Pantoea eucalypti M91), grown without tryptophan supplementation (panel a) and with tryptophan supplementation (10 μM, panel b). Within each strain, the bars corresponding to 24 h (dots), 48 h (lines) and 72 h (solid color) are shown. n=3](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
+![Figure 5](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true)
 ![](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
 
 ### Project_2: Use of screens in people with children and its impact with the pandemic
