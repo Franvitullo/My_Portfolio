@@ -2,7 +2,7 @@
 # FranVitullo_DataVisualiser
 <br />
 <br />
-## Project_1: Bacteria from the rhizosphere of fescue (*Lolium arundinaceum*) as plant growth enhancers.
+## I_ Bacteria from the rhizosphere of fescue (*Lolium arundinaceum*) as plant growth enhancers.
 
 
 
@@ -77,25 +77,27 @@ Improving germination, root architecture and number of leaves.
 
 
 
-### Project_2: Use of screens in people with children and its impact with the pandemic
+## II_Use of screens in people with children and its impact with the pandemic
+<br />
 
-Those who are mothers or fathers, how much time do they spend on screen?
+Those who are mothers or fathers, **how much time do they spend on screen?**
 
 The pandemic changed the relationship we all have with technology. Specifically, those people who have children, increased the daily exposure time to screens in the best case, 1 hour and in the worst, more than 8 hours.
 
 The results pre covid and during the covid-19 pandemic are as follows:
 
 Average screen time:
--0 to 1 hour: went from 17.4% to 7.3% 🠋
--2 to 3 hours: it went from 44.7% to 19.0% 🠋 🠋
--4 to 5 hours: it went from 22.8% to 29.4% 🠉
--6 to 7 hours: it went from 7.7% to 21.3% 🠉🠉
--8 to 9 hours: it went from 2.9% to 11.8% 🠉🠉🠉
--more than 9 hours: it went from 4.5% to 11.2% 🠉🠉
+- 0 to 1 hour: went from 17.4% to 7.3% 🠋
+- 2 to 3 hours: it went from 44.7% to 19.0% 🠋 🠋
+- 4 to 5 hours: it went from 22.8% to 29.4% 🠉
+- 6 to 7 hours: it went from 7.7% to 21.3% 🠉🠉
+- 8 to 9 hours: it went from 2.9% to 11.8% 🠉🠉🠉
+- more than 9 hours: it went from 4.5% to 11.2% 🠉🠉
 
 As you might imagine, the exposure time increased considerably. The causes are many and already known.
 
 But knowing this leads us to other questions, Are we aware of this? In this new post-pandemic context, it is important to reassess habits that we have acquired and perhaps did not realize.
+<br />
 
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
