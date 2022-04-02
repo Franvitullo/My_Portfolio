@@ -1,11 +1,12 @@
 <br />
 
 <p align="Left">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="300">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="400">
 </p>
 <br />
 
-# FranVitullo_DataVisualiser
+# Fran Vitullo
+##_DataVisualiser
 <br />
 <br />
 
@@ -89,6 +90,11 @@ Those who are mothers or fathers, **how much time do they spend on screen?**
 
 The pandemic changed the relationship we all have with technology. Specifically, those people who have children, increased the daily exposure time to screens in the best case, 1 hour and in the worst, more than 8 hours.
 
+<p align="center">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
+</p>
+
+
 The results pre covid and during the covid-19 pandemic are as follows:
 
 Average screen time:
@@ -104,8 +110,5 @@ As you might imagine, the exposure time increased considerably. The causes are m
 But knowing this leads us to other questions, Are we aware of this? In this new post-pandemic context, it is important to reassess habits that we have acquired and perhaps did not realize.
 <br />
 
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
-</p>
 
 
