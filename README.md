@@ -1,6 +1,17 @@
+
+
+
+
 ## FranVitullo_DataVisualiser
 
+
+
+
+
+
 ### Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
+
+
 
 As part of my biotech engineering degree I did my thesis on crop improvement through biofertilizers. 
 You can access the full thesis [here](https://drive.google.com/file/d/1nVnoASpq26gv7k1JpO9YO3mY5I27JtH7/view?usp=sharing).
@@ -53,5 +64,5 @@ Improving germination, root architecture and number of leaves.
 
 As part of my path to becoming a data scientist 
 
-![image](https://user-images.githubusercontent.com/92457685/161389551-da909365-566c-4dc5-8a3a-bb01ce1dd7b1.png)
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
 
