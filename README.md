@@ -2,7 +2,7 @@
 # FranVitullo_DataVisualiser
 <br />
 <br />
-## Project_1: Bacteria from the rhizosphere of fescue (Lolium arundinaceum) as plant growth enhancers.
+## Project_1: Bacteria from the rhizosphere of fescue (*Lolium arundinaceum*) as plant growth enhancers.
 
 
 
