@@ -74,7 +74,7 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 #### FUNCTION over TIME
-### **Percentage of germination in time**
+### **Percentage of germination over the days**
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
 </p>
@@ -109,6 +109,11 @@ As you might imagine, the exposure time increased considerably. The causes are m
 
 But knowing this leads us to other questions, Are we aware of this? In this new post-pandemic context, it is important to reassess habits that we have acquired and perhaps did not realize.
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 
