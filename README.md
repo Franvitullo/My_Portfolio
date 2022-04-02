@@ -33,7 +33,7 @@ Improving germination, root architecture and number of leaves.
 
 ![alt text](https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=tue)
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="100" height="100">
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/1.PNG?raw=true" width="400" height="400">
 
 ![alt text 2](https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true)
 
