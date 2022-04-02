@@ -37,7 +37,7 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 #### Bar chart wit ANOVA
-### Proteic specific activity of different plants inoculated with specifics microorganisms.
+### **Proteic specific activity of different plants inoculated with specifics microorganisms.**
 <br />
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
@@ -47,7 +47,7 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 #### ANOVA BOXPLOT
-### Biomass production.
+### **Biomass production.**
 <br />
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
@@ -58,7 +58,7 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 #### stacked bar chart
-### Germination ratio in seeds inoculated with biofertilizers.
+### **Germination ratio in seeds inoculated with biofertilizers.**
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
 </p>
@@ -68,7 +68,7 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 #### bar chart with timestamps
-### Percentage in time
+### **Percentage in time**
 <p align="center">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
 </p>
