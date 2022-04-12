@@ -48,9 +48,8 @@ Improving germination, root architecture and number of leaves.
 </p>
 <br />
 <br />
-
 <br />
-<br />
+ 
 #### ANOVA BOXPLOT (* shows significant difference)
 ### **Biomass production.**
 <br />
@@ -59,9 +58,8 @@ Improving germination, root architecture and number of leaves.
 </p>
 <br />
 <br />
+<br />
 
-<br />
-<br />
 #### STACKED BAR CHART
 ### **Germination ratio in seeds inoculated with biofertilizers.**
 <p align="center">
@@ -70,12 +68,9 @@ Improving germination, root architecture and number of leaves.
 <br />
 <br />
 <br />
-<br />
-
 
 
 ## II_ Power BI: Gold vs Bitcoin
-<br />
 
 In this project, I created a dashboard in power BI to compare two stores of value: gold and bitcoin.
 The dashboard shows KPIs, time series and comparison of values.
@@ -88,12 +83,11 @@ The dashboard shows KPIs, time series and comparison of values.
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 
 ## III_Use of screens in people with children and its impact with the pandemic
-<br />
+
 
 Those who are mothers or fathers, **how much time do they spend on screen?**
 
