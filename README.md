@@ -44,7 +44,7 @@ Improving germination, root architecture and number of leaves.
 ### **Proteic specific activity of different plants inoculated with specifics microorganisms.**
 <br />
 <p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="550">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/7.PNG?raw=true" width="450">
 </p>
 <br />
 <br />
@@ -55,7 +55,7 @@ Improving germination, root architecture and number of leaves.
 ### **Biomass production.**
 <br />
 <p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="550">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/6.PNG?raw=true" width="450">
 </p>
 <br />
 <br />
@@ -65,7 +65,7 @@ Improving germination, root architecture and number of leaves.
 #### STACKED BAR CHART
 ### **Germination ratio in seeds inoculated with biofertilizers.**
 <p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="550">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/4.PNG?raw=true" width="450">
 </p>
 <br />
 <br />
@@ -75,7 +75,7 @@ Improving germination, root architecture and number of leaves.
 #### FUNCTION over TIME
 ### **Percentage of germination over the days**
 <p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="550">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="450">
 </p>
 <br />
 <br />
@@ -83,7 +83,34 @@ Improving germination, root architecture and number of leaves.
 <br />
 
 
-## II_Use of screens in people with children and its impact with the pandemic
+## II_
+<br />
+
+Text
+
+<p align="left">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="350">
+</p>
+<p align="right">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="350">
+</p>
+<p align="left">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%203.PNG?raw=true" width="350">
+</p>
+<p align="right">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%204.PNG?raw=true" width="350">
+</p>
+
+
+text
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+## III_Use of screens in people with children and its impact with the pandemic
 <br />
 
 Those who are mothers or fathers, **how much time do they spend on screen?**
@@ -91,7 +118,7 @@ Those who are mothers or fathers, **how much time do they spend on screen?**
 The pandemic changed the relationship we all have with technology. Specifically, those people who have children, increased the daily exposure time to screens in the best case, 1 hour and in the worst, more than 8 hours.
 
 <p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="550">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Total.PNG?raw=true" width="450">
 </p>
 
 
