@@ -1,8 +1,7 @@
 <p align="Right">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="300">
 </p>
-# Fran Vitullo
-## _DataAnalyst
+# Fran Vitullo ## _DataAnalyst
 <br />
 <br />
 
