@@ -37,7 +37,7 @@ Improving germination, root architecture and number of leaves.
 ```
 <br />
 
-## Analyzes performed
+## (some of the) Analyzes performed
 <br />
 
 #### BAR CHART with ANOVA
@@ -69,18 +69,9 @@ Improving germination, root architecture and number of leaves.
 </p>
 <br />
 <br />
+<br />
+<br />
 
-<br />
-<br />
-#### FUNCTION over TIME
-### **Percentage of germination over the days**
-<p align="center">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/8.PNG?raw=true" width="450">
-</p>
-<br />
-<br />
-<br />
-<br />
 
 
 ## II_ Power BI: Gold vs Bitcoin
@@ -93,7 +84,7 @@ The dashboard shows KPIs, time series and comparison of values.
 
 <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%203.PNG?raw=true" width="450"/> <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%204.PNG?raw=true" width="450"/>
 
-tex
+
 <br />
 <br />
 <br />
