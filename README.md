@@ -1,12 +1,10 @@
-<br />
-
-<p align="Left">
-  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="450">
+<p align="Right">
+  <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/Logo%202.png?raw=true" width="350">
 </p>
 <br />
 
 # Fran Vitullo
-## _DataVisualiser
+## _DataAnalyst
 <br />
 <br />
 
