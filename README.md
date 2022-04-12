@@ -86,9 +86,9 @@ Improving germination, root architecture and number of leaves.
 ## II_
 <br />
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<p align="center"><img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="350"></p>  |  <p align="center"><img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="350"></p>
+
+<p align=><img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="100"></p>    
+<p align=><img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="100"></p>
 
 Text
 
