@@ -88,18 +88,20 @@ Improving germination, root architecture and number of leaves.
 
 Text
 
-<p align="left">
+| Syntax | Description |
+| ----------- | ----------- |
+| <p align="left">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="350">
-</p>
-<p align="right">
+</p> | <p align="right">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="350">
-</p>
-<p align="left">
+</p> |
+| <p align="left">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%203.PNG?raw=true" width="350">
-</p>
-<p align="right">
+</p> | <p align="right">
   <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%204.PNG?raw=true" width="350">
 </p>
+ |
+
 
 
 text
