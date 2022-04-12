@@ -83,14 +83,17 @@ Improving germination, root architecture and number of leaves.
 <br />
 
 
-## II_
+## II_ Power BI: Gold vs Bitcoin
 <br />
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="400"/> <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="400"/>
+In this project, I created a dashboard in power BI to compare two stores of value: gold and bitcoin.
+The dashboard shows KPIs, time series and comparison of values.
 
-<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%203.PNG?raw=true" width="400"/> <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%204.PNG?raw=true" width="400"/>
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%201.PNG?raw=true" width="450"/> <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%202.PNG?raw=true" width="450"/>
 
-text
+<img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%203.PNG?raw=true" width="450"/> <img src="https://github.com/Franvitullo/My_Portfolio/blob/main/images/P%20BI%204.PNG?raw=true" width="450"/>
+
+tex
 <br />
 <br />
 <br />
